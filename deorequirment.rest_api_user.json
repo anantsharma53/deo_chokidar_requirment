@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "66c57f952f2bd4226516f735"
+  },
+  "id": 1,
+  "last_login": null,
+  "name": "Anant Kumar Sharma",
+  "username": "admin",
+  "email": "anantsharma53@gmail.com",
+  "mobile_number": "7979021947",
+  "password": "pbkdf2_sha256$390000$pLCN4ChgrC0k0GmlbycD9s$kOnijbch7gPkZ8lauu0W0qmVpm5N0X+VBcztX05+F1s=",
+  "is_candidate": true,
+  "is_staff": true,
+  "is_superuser": true
+}]
